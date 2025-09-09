@@ -8,7 +8,7 @@ The main objective is to classify patients into two categories: Healthy or Diagn
 We selected this dataset because liver disease is a serious global health concern. Early prediction can support doctors and patients by providing the chance for early treatment and preventive steps.
 
 **Student Names:**
-- Joud Aloqeely
--Jana alhumaidi
--Jana Aldakheel
+- Joud Aloqeely  
+- Jana Alhumaidi  
+- Jana Aldakheel  
 - Sondos Aldughaim
